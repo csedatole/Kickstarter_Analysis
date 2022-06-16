@@ -13,7 +13,7 @@ This analysis was performed by creating a pivot table which highlighted the resu
 This analysis was performed by creating a table with goal ranges from less than $1,000 to more than $50,000. The countifs function was used to determine the number of successful, failed, and canceled play campaigns based on the criteria above. These results were turned into percentages and used to create the line graph shown below.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107012216/174178798-407931a7-8a4e-40b4-86c9-10074cf4c3b1.png)
 
 ### Challenges and Difficulties Encountered
-
+The only challenge was encountered while using the countifs function, which is long and difficult to format. Trial and error was used to find the correct syntax for the formula by filtering certain data, including the outcome result, goal range, and campaign subcategory.
 ## Results
 
 
