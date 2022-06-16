@@ -18,8 +18,8 @@ The only challenge was encountered while using the countifs function, which is l
 
 Using the outcomes based on launch date line graph, it can be concluded that the most successful time of year to create a campaign is May-July. Additionally, the worst time to start a campaign is at the end of the year, with December having the least amount of successful campaigns.
 
+Using the outcomes based on goal line graph, it can be concluded that a goal of more than $45,000 results in an extremely small percentage of successful campaigns. Additionally, the $1,000 to $10,000 range resulted in a higher percentage of successful campaigns, indicating it might be better to have a smaller goal for a Kickstarter.
 
+A limitation of the dataset is its size, as this is not the entire scope of all Kickstarter campaigns, so the results can only be taken at face value. 
 
-
-
-
+Additional interpretations of the data that could have been created include outcomes based on country, outcomes based on amount of backers, and outcomes based on year.
