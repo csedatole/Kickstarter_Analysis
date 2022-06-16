@@ -16,7 +16,7 @@ This analysis was performed by creating a table with goal ranges from less than 
 The only challenge was encountered while using the countifs function, which is long and difficult to format. Trial and error was used to find the correct syntax for the formula by filtering certain data, including the outcome result, goal range, and campaign subcategory.
 ## Results
 
-
+Using the outcomes based on launch date line graph, it can be concluded that the most successful time of year to create a campaign is May-July. Additionally, the worst time to start a campaign is at the end of the year, with December having the least amount of successful campaigns.
 
 
 
